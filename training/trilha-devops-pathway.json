@@ -1,0 +1,20 @@
+{
+  "title": "Trilha DevOps",
+  "description": "Trilha DevOps",
+  "courses": [
+    {
+      "pathway_id": "sonikro",
+      "title": "Teste1",
+      "id": "teste1",
+      "course_id": "teste1",
+      "description": "This is a test scenario"
+    },
+    {
+      "pathway_id": "sonikro",
+      "title": "Hello World Scenario",
+      "id": "hello-world",
+      "course_id": "hello-world",
+      "description": "Your First Scenario"
+    }
+  ]
+}
