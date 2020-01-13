@@ -1,0 +1,11 @@
+{
+  "title": "Trilha DevOps",
+  "description": "Descriçao Trilha DevOps",
+  "courses": [
+    {
+      "course_id": "teste1",
+      "title": "Teste1",
+      "description": "This is a test scenario"
+    }
+  ]
+}
