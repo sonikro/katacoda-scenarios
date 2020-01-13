@@ -63,7 +63,7 @@
     "host01": [
       {
         "file": "exercicio-git-gitflow-101",
-        "target": "~/"
+        "target": "/root"
       }
     ]
   }
