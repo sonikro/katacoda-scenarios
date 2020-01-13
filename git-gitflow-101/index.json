@@ -58,5 +58,13 @@
   },
   "backend": {
     "imageid": "ubuntu"
+  },
+  "assets": {
+    "host01": [
+      {
+        "file": "exercicio-git-gitflow-101",
+        "target": "~/"
+      }
+    ]
   }
 }
